@@ -1,5 +1,10 @@
 # tcp
 
+Goals:
+
+- Stronger behavioral tests against clojure and common clojure libraries.
+- Improve clojure docstrings with complete sentences, examples, and documented edge cases.
+
 ## org
 
 ### clojure
