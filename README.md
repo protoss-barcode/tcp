@@ -14,3 +14,4 @@ Bugs:
 - No type predicate function `bigdec?` for `bigdec` type coercion function. `decimal?` is misnamed.
 - No type predicate function `biginteger?` for `biginteger` type coercion function.
 - No type predicate function `bigint?` for `bigint` type coercion function.
+- `*` and `*'` calculate values above `Double/MAX_VALUE` as `Double/POSITIVE_INFINITY`
