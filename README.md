@@ -1,4 +1,4 @@
-# tcp
+# Testing Clojure Project
 
 Goals:
 
